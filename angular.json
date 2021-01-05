@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "apollo-sample"
+  "defaultProject": "apollo-sample",
+  "cli": {
+    "analytics": "7bbcdefa-7277-4186-88ad-4314973021c5"
+  }
 }
